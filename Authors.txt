@@ -1,0 +1,17 @@
+Authors of the wemo script (was originally named wemo_control.sh, now is wemo-cmd.sh):
+
+WeMo Control Script
+
+Original author: rich@netmagi.com
+
+Modified 7/13/2014 by Donald Burr
+email: <dburr@DonaldBurr.com>
+web: <http://DonaldBurr.com>
+
+Modified 05/12/2014 by Jack Lawry
+email: <jack@jacklawry.co.uk>
+web: <http://www.jacklawry.co.uk>
+
+Modifier 25/06/2017 Richard Mouli
+email: <version@objectitude.eu>
+web: <httP://www.objectitude.eu>
